@@ -1,3 +1,7 @@
+
+[INFORMATION GATHERING] 
+
+
 Perfect — this is exactly what your architecture needs next: **a concrete, executable visualization**.
 
 Below are two diagrams:
