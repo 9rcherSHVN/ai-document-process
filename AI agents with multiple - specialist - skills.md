@@ -1,3 +1,5 @@
+[INFORMATION GATHERING]
+
 Excellent — this is exactly the level where architecture becomes **real engineering discipline**, not just patterns on paper.
 
 You’re asking the right question:
